@@ -1,0 +1,6 @@
+name	age	country
+Alice	30	USA
+Bob	25	UK
+Charlie	35	Canada
+David	28	Germany
+
